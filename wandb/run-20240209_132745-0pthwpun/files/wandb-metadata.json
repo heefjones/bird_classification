@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.8.17",
+    "heartbeatAt": "2024-02-09T19:27:46.790182",
+    "startedAt": "2024-02-09T19:27:45.740185",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/heefjones/bird_classification.git",
+        "commit": "53478c53d3d2b376fe5bc53ce45a9fd6374cc270"
+    },
+    "email": "jimmyhj9@gmail.com",
+    "root": "C:/Users/heefj/OneDrive/Documents/kaggle/birds",
+    "host": "DESKTOP-DTQPG17",
+    "username": "heefj",
+    "executable": "c:\\Users\\heefj\\anaconda3\\envs\\torch_env\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3801.0,
+        "min": 0.0,
+        "max": 3801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3801.0,
+            "min": 0.0,
+            "max": 3801.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.4619102478027,
+            "used": 810.3687133789062
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 Ti",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 63.92708206176758
+    }
+}

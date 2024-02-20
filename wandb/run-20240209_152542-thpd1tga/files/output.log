@@ -1,0 +1,12 @@
+84635
+torch.Size([3, 224, 224])
+Epoch 1/10, Train Loss: 6.3632, Train Acc: 0.26%, Valid Loss: 6.2653, Valid Acc: 0.19%
+Epoch 2/10, Train Loss: 6.2586, Train Acc: 0.31%, Valid Loss: 6.2674, Valid Acc: 0.19%
+Epoch 3/10, Train Loss: 6.2588, Train Acc: 0.31%, Valid Loss: 6.2689, Valid Acc: 0.19%
+Epoch 4/10, Train Loss: 6.2575, Train Acc: 0.31%, Valid Loss: 6.2697, Valid Acc: 0.19%
+Epoch 5/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2701, Valid Acc: 0.19%
+Epoch 6/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2704, Valid Acc: 0.19%
+Epoch 7/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2705, Valid Acc: 0.19%
+Epoch 8/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2705, Valid Acc: 0.19%
+Epoch 9/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2705, Valid Acc: 0.19%
+Epoch 10/10, Train Loss: 6.2573, Train Acc: 0.31%, Valid Loss: 6.2705, Valid Acc: 0.19%
